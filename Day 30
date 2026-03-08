@@ -1,0 +1,4 @@
+AWS ;    Compute → EC2, Lambda
+         Storage → S3, RDS
+         Networking → VPC, Load Balancer, Route 53
+         Security → IAM, MFA
