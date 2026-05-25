@@ -1,0 +1,61 @@
+It took me three days to complete first day topics!
+
+Day 1 — Advanced NLP + Embeddings + Transformers
+NLP & Embeddings:
+                                                  Tokenization
+                                                  Special Tokens
+                                                  Token IDs
+                                                  Stemming
+                                                  Lemmatization
+                                                  POS Tagging
+                                                  Named Entity Recognition (NER)
+                                                  Bag of Words (BoW)
+                                                  TF-IDF
+                                                  Sparse vs Dense Representations
+                                                  Word Embeddings
+                                                  Semantic Similarity
+                                                  Cosine Similarity
+                                                  Word2Vec
+                                                  CBOW
+                                                  Skip-Gram
+                                                  GloVe
+                                                  FastText
+                                                  OOV Handling
+Revised : 
+                                                  Forward Pass
+                                                  Backpropagation
+                                                  Gradient Descent
+                                                  Softmax Function
+                                                  Epochs
+                                                  Training vs Inference
+                                                  Overfitting
+                                                  Early Stopping
+                                                  RNN
+                                                  LSTM
+                                                  GRU
+                                                  Vanishing Gradient Problem
+Core :
+                                                  Transformers
+                                                  Self-Attention
+                                                  Query, Key, Value (QKV)
+                                                  Attention Matrix
+                                                  Multi-Head Attention
+                                                  Positional Encoding
+                                                  Parallelization in Transformers
+                                                  Encoder Architecture
+                                                  Decoder Architecture
+                                                  Causal Masking
+                                                  Cross Attention
+Model :
+                                                  BERT
+                                                  GPT
+                                                  T5
+                                                  BART
+                                                  LLaMA
+Practical :
+                                                  Hugging Face
+                                                  Tokenizers
+                                                  Attention Masks
+                                                  Token Type IDs
+                                                  Batching
+                                                  GPU Inference Basics
