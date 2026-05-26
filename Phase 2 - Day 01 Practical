@@ -1,0 +1,32 @@
+What i saw on code ; 
+                        Hugging Face Transformers
+                        AutoTokenizer
+                        AutoModel
+                        Token IDs
+                        Special Tokens
+                        Attention Masks
+                        Padding & Truncation
+                        Tensor Shapes
+                        Batch Processing
+                        GPU Inference Basics
+                        Hugging Face Pipelines
+                        Sentiment Analysis Pipeline
+                        Text Summarization Pipeline
+                        Logits & Softmax
+                        Text Generation (GPT)
+                        Temperature / Top-K / Top-P Sampling
+                        AutoModelForCausalLM
+                        Token Decoding
+                        spaCy Practical NLP
+                        NLTK Practical NLP
+                        Fine-Tuning Transformers
+                        Hugging Face Datasets
+                        Trainer API
+                        DataLoader
+                        Training Loops
+                        Forward Pass
+                        Backpropagation
+                        Optimizer Step
+                        Model Evaluation
+                        Dataset Pipeline Engineering
+                        Inference Workflow
