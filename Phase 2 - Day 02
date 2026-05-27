@@ -1,0 +1,17 @@
+DAY 2 — LLM Internals
+
+                        • Large Language Models (LLMs)
+                        • Transformer vs LLM Architecture
+                        • Pretraining
+                        • Fine-Tuning
+                        • PEFT & LoRA
+                        • Instruction Tuning
+                        • RLHF (Reinforcement Learning from Human Feedback)
+                        • DPO (Direct Preference Optimization)
+                        • Context Window
+                        • Temperature
+                        • Top-K Sampling
+                        • Top-P (Nucleus) Sampling
+                        • Hallucinations in LLMs
+                        • Quantization
+                        • KV Cache
